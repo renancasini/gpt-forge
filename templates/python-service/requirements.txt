@@ -1,0 +1,1 @@
+# Dependências base para serviços Python
